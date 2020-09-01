@@ -25,3 +25,9 @@ Words | 2
 Words | 4
 More words | 3
 Even more words | 2
+
+```js
+console.log('wow')
+
+const it = a + b;
+```
